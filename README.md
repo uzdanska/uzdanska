@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ula.</h1>
-<p align="left"> <a href="https://twitter.com/ulaintech" target="blank"><img src="https://img.shields.io/twitter/follow/ulaintech?logo=twitter&style=for-the-badge" alt="ulaintech" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python & DataScience**
 
