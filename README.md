@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Python & DataScience**
 
-- 💬 Ask me about **anything you want**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
