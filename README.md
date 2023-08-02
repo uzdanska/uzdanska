@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ula.</h1>
 
 
-- 🌱 I’m currently learning **Python & DataScience**
+- 🌱 I’m currently learning **Python & DataScience & Front-end**
 
 
 
